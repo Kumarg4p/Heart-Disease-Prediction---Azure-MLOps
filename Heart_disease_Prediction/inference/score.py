@@ -15,7 +15,7 @@ import logging
 
 
 '''
-Inference script for IRIS Classification:
+Inference script for Heart disease prediction:
 
 '''
 
